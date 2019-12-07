@@ -24632,7 +24632,7 @@ b {
 }
 .footerWrapper::after {
     content: "";
-    background-image: url(/static/Images/footerBack.png);
+    background-image: url(../img/footerBack.png);
     background-position: bottom right;
     background-size: 900px;
     background-repeat: repeat-x;
